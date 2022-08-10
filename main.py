@@ -7,7 +7,7 @@ def add (x,y):                                                   #made a functio
         return result
 def multiply(x,y):
         result = x*y
-        print("Yeah ! Your answer is :", result)
+        print("Yeah ! Your answer is :", result) #hy
         return result
 
 def substraction(x,y):
